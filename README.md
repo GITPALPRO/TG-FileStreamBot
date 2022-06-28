@@ -64,6 +64,7 @@ The main working part was taken from [Megatron](https://github.com/eyaadh/megadl
 Either you could locally host or deploy on [Heroku](https://heroku.com)
 
 ### Deploy on Heroku
+https://github.com/GITPALPRO/TG-FileStreamBot
 
 Press the below button to fast deploy to Heroku
 
